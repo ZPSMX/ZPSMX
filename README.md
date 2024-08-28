@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Isaac Cisneros<br>A passionate Games developer from Mexico</h1>
+<h1 align="center">Hi 👋! My name is Isaac Cisneros<br>A passionate Games&Apps developer from Mexico</h1>
 
 ###
 
