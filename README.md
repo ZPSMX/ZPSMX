@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/yF2cZxmDRjQAAAAC/glootie-app.gif"  />
+  <img src="https://i.ibb.co/BK7Q8Py/PRESENTACION.png"  />
 </div>
 
 ###
